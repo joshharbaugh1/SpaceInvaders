@@ -1,0 +1,8 @@
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpaceBackground.xnb
+C:\Users\Technologist SP\Documents\GitHub\SpaceInvaders\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Spaceship Image.xnb
